@@ -1,2 +1,3 @@
-# HelloGit
-projet de classe
+# Le projet HelloGit
+
+## Développé par C#
